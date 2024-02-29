@@ -1,0 +1,6 @@
+
+python -m venv .venv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.venv\scripts\activate
+F:\EUCLIDO\WEB SCRAPE_0\prothom_alo\chromedriver-win64\chromedriver.exe
+https://www.prothomalo.com/topic/%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%86%E0%A6%B2%E0%A7%8B
